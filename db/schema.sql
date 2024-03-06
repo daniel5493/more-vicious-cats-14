@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS red_claw_crabs_with_a_toothpick_sword_db;
+CREATE DATABASE red_claw_crabs_with_a_toothpick_sword_db;
